@@ -57,6 +57,7 @@ def FileWritting(*args):
         File = open('out.csv', 'a')
         for arg in args:
                 File.write(f'{arg},')
+        File.write('\n')
         File.close()
 #scraping data
 def Scrapper(url):
