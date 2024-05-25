@@ -20,8 +20,9 @@
 
    
 <p>-Download and unzip</p>
-<p>-Run cmd in project dir</p>
-<p>-write (on Win): "python manage.py runserver --insecure</p>
+<p>-pip install -r requirements.txt</p>
+<p>-paste some urls from amazon website to urls.csv file(separated with coma ',')</p>
+<p>-open amazon_price file </p>
 <p>-BOOM🎉 .It works</p>
 
 <p><br></p>
