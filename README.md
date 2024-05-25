@@ -6,7 +6,7 @@
    It have many interesting features like counters and contact form, which are fully personalized.</p>
 <p> This is how it looks like :</p>
 <p>
-    <img src="https://github.com/Wirtix/Django-Portfolio/blob/main/img/portfolio-view.png" width="720" />
+    <img src="https://github.com/Wirtix/scrapper/assets/163426241/af0b5b96-d2fe-47ec-8d50-442b2811cf8b" width="720" />
 </p>
 
 
