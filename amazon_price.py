@@ -136,7 +136,7 @@ def Scrapper(url):
                 
                 brand = 'NA'
 
-                print('product rate= ', rate)
+                print('Brand: ', brand)
 
         print('-'*30)
         FileWritting(title_string, price_string, avaliable_value1, rate_count, rate_string)
