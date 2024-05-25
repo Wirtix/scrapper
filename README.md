@@ -2,8 +2,11 @@
 <h3 align="center">Made with passion to coding </h3>
 
 <h2>📄Project Description </h2>
-<p>This project was made to fill my resume. I want to make a clean look portfolio which contains all my interesting projects and show my skills.<br>
-   It have many interesting features like counters and contact form, which are fully personalized.</p>
+<p>
+   This project was made to help my mother's buissnes. She needed to scrap clothes sizes from other shop and this project helped her and make it way easer.
+   Now I changed few things and you can see that my project now scrapping informations from Amazon website. You can paste some urls in urls.csv file and run program to make data about this product scrapped to ur own csv.
+
+</p>
 <p> This is how it looks like :</p>
 <p>
     <img src="https://github.com/Wirtix/scrapper/assets/163426241/af0b5b96-d2fe-47ec-8d50-442b2811cf8b" width="720" />
@@ -11,6 +14,7 @@
 
 
 <p><br></p>
+
 
 <h2>🔧 How to use it? </h2>
 
